@@ -4,8 +4,7 @@
 
 - 🔭 &nbsp; I’m on my way to become a Fullstack Developer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 💼 &nbsp; Front-end web developer.
 - 🌱 &nbsp; Enthusiast in game development.
 - ✍️ &nbsp; Reading manga and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I'm from Mexico!. 
