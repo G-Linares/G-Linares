@@ -1,13 +1,13 @@
-<h2> Hey there! I'm Gerardo <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Gerardo <iframe src="https://giphy.com/embed/kFkDuCdGq5DJQQTL1X" width="10" height="10" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m on my way to become a Fullstack Developer
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Front-end web developer.
-- 🌱 &nbsp; Enthusiast in game development.
+- 💻 &nbsp; Software Engineer @ Altimetrik.
+- 🔧 &nbsp; Exploring new technologies and developing software solutions.
+- 💼 &nbsp; Fullstack developer.
+- 👾 &nbsp; Enthusiast in game development.
 - ✍️ &nbsp; Reading manga and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I'm from Mexico!. 
+- 🌎 &nbsp; I'm from Mexico!. 
 
 <br>
 
