@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Gerardo <iframe src="https://giphy.com/embed/kFkDuCdGq5DJQQTL1X" width="10" height="10" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></h2>
+<h2> Hey there! I'm Gerardo 🖖</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
