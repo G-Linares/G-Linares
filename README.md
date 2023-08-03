@@ -11,6 +11,6 @@
 
 <br>
 
-![Gerardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Linares&show_icons=true&theme=cobalt)
+![Gerardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Linares&show_icons=true&theme=cobalt&hide_rank=true)
 
 </br>
