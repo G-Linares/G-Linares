@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💻 &nbsp; Software Engineer @ Altimetrik.
+- 💻 &nbsp; Software Engineer @ Envato.
 - 🔧 &nbsp; Exploring new technologies and developing software solutions.
 - 💼 &nbsp; Fullstack developer.
 - 👾 &nbsp; Enthusiast in game development.
